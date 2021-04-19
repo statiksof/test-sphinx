@@ -1,0 +1,8 @@
+.git
+.vscode/
+*.bat
+build
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+
