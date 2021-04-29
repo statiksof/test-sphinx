@@ -55,7 +55,7 @@ html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 
 html_theme_options = {
-    "footer_items": ["copyright", "sphinx-version", "last-updated"],
+    "footer_items": ["copyright", "last-updated"],
   }
 
 html_last_updated_fmt = '%b %d, %Y'
